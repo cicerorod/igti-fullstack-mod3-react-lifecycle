@@ -1,6 +1,6 @@
-# Informações de Países e sua população ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+# Ciclo de vida de um componente React ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
-Projeto para consumir API com informações de paises e retornar a população do mesmo. Desenvolvido React no bootcamp fullstack da IGTI.
+Demonstrar o ciclo de vida de componentes React. Desenvolvido React no bootcamp fullstack da IGTI.
 
 ## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página
 
