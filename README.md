@@ -1,6 +1,6 @@
 # Ciclo de vida de um componente React ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
-Demonstrar o ciclo de vida de componentes React. Desenvolvido React no bootcamp fullstack da IGTI.
+Demonstrar o ciclo de vida de componentes React. Desenvolvido no bootcamp fullstack da IGTI.
 
 ## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página
 
