@@ -6,6 +6,10 @@ Demonstrar o ciclo de vida de componentes React. Desenvolvido no bootcamp fullst
 
 <p align="center">
   WebSite: https://mod3-react-lifecycle.vercel.app/
+</p>
+
+
+<p align="center">
   <img src="https://github.com/cicerorod/igti-fullstack-mod3-react-lifecycle/blob/master/img/tela.PNG">
 </p>
 
